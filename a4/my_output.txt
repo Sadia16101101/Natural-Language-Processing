@@ -1,0 +1,10 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: torch in ./.local/lib/python3.7/site-packages (1.11.0)
+Requirement already satisfied: typing-extensions in ./.local/lib/python3.7/site-packages (from torch) (4.1.1)
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pandas in ./.local/lib/python3.7/site-packages (1.3.5)
+Requirement already satisfied: python-dateutil>=2.7.3 in ./.local/lib/python3.7/site-packages (from pandas) (2.8.2)
+Requirement already satisfied: pytz>=2017.3 in ./.local/lib/python3.7/site-packages (from pandas) (2022.1)
+Requirement already satisfied: numpy>=1.17.3; platform_machine != "aarch64" and platform_machine != "arm64" and python_version < "3.10" in /usr/local/tensorflow/2.2.0/python/3.7.2/lib/python3.7/site-packages (from pandas) (1.19.1)
+Requirement already satisfied: six>=1.5 in /usr/local/tensorflow/2.2.0/python/3.7.2/lib/python3.7/site-packages (from python-dateutil>=2.7.3->pandas) (1.15.0)
+begin Maximum Likelihood training
